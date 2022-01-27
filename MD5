@@ -1,0 +1,14 @@
+8492a86d017be63fa3e25525a72e7dcb *DESCRIPTION
+bb721f7164ee3e59ba15ed4e68c6997a *NAMESPACE
+57bd61ad5bfdd3836326c128e4583874 *R/nic_colours.R
+4978d968df9c98e967166c2f10c424e3 *build/vignette.rds
+9244127655e2c130ac4cb58f8c6bfd57 *inst/doc/color-palette-demo.R
+8e83a18fa4ff338635f249b701d52b53 *inst/doc/color-palette-demo.Rmd
+e774ad0f15c045dcc7a592ac90c0f46b *inst/doc/color-palette-demo.html
+8b991afd33d87eb28af435676860f047 *man/figures/README-unnamed-chunk-3-1.png
+01b872fb6cb5cfdaa3b891dd6c347c86 *man/figures/README-unnamed-chunk-4-1.png
+e9147f85f7b55ed8aa54e77c366421d4 *man/figures/README-unnamed-chunk-5-1.png
+e10f44d1ee0c94d226e989581ddf7c1d *man/figures/README-unnamed-chunk-6-1.png
+ba41d669ff0a181b5bdf7e8440a2abd9 *man/nic_palette.Rd
+96f5771796e3a463c43a25922e2d8cb8 *man/nic_palettes.Rd
+8e83a18fa4ff338635f249b701d52b53 *vignettes/color-palette-demo.Rmd
