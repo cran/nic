@@ -8,7 +8,8 @@ knitr::opts_chunk$set(
 
 ## ----setup--------------------------------------------------------------------
 library(nic)
-library(tidyverse)
+library(tidyr)
+library(ggplot2)
 library(palmerpenguins)
 theme_set(theme_minimal())
 
